@@ -192,6 +192,5 @@ double_char
 double_char = [i*2 for i in 'Clarusway' if i in ['a', 'u' ]
 double_char
 
-abc = x for x in range(15) if x/3 ==1:
-x 
+abc  
 
